@@ -1,2 +1,3 @@
-# Dataquest
-Personal private repository for Dataquest work. I will add all Jupyter notebooks and datasets if size permits.
+# Data Science
+Datasets and jupyter notebooks for data science work. Shows off my skills in data science skills in Python
+
